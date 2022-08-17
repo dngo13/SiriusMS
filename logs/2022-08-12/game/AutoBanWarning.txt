@@ -1,0 +1,6 @@
+Toku caused DISTANCE_HACK Distance Sq to monster: 222610.0 SID: 1001005 MID: 2300100
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 275650.0 SID: 1001005 MID: 2300100
+---------------------------------
+

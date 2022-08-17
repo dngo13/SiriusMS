@@ -1,0 +1,18 @@
+Mizuki caused DAMAGE_HACK DMG: 66 MaxDMG: 32 SID: 0 MobID: 100101 Map: Entrance to Adventurer Training Center (1010000)
+---------------------------------
+
+Mizuki caused DAMAGE_HACK DMG: 50 MaxDMG: 32 SID: 0 MobID: 100101 Map: Entrance to Adventurer Training Center (1010000)
+---------------------------------
+
+Mizuki caused DAMAGE_HACK DMG: 58 MaxDMG: 32 SID: 0 MobID: 100101 Map: Entrance to Adventurer Training Center (1010000)
+---------------------------------
+
+Mizuki caused DAMAGE_HACK DMG: 65 MaxDMG: 32 SID: 0 MobID: 100101 Map: Entrance to Adventurer Training Center (1010000)
+---------------------------------
+
+Mizuki caused DAMAGE_HACK DMG: 50 MaxDMG: 32 SID: 0 MobID: 120100 Map: Entrance to Adventurer Training Center (1010000)
+---------------------------------
+
+Mizuki caused DAMAGE_HACK DMG: 51 MaxDMG: 32 SID: 0 MobID: 120100 Map: Entrance to Adventurer Training Center (1010000)
+---------------------------------
+

@@ -1,0 +1,3 @@
+SQL Driver refused to give a connection after 3 tries. Problem: Communications link failure
+
+Last packet sent to the server was 0 ms ago.

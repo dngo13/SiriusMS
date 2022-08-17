@@ -1,0 +1,22 @@
+Error saving notvase Level: 6 Job: 1000
+java.lang.RuntimeException: Character not in database (17)
+	at client.MapleCharacter.saveCharToDB(MapleCharacter.java:8590)
+	at client.MapleClient.disconnectInternal(MapleClient.java:1023)
+	at client.MapleClient.forceDisconnect(MapleClient.java:951)
+	at net.server.PlayerStorage.disconnectAll(PlayerStorage.java:106)
+	at net.server.channel.Channel.shutdown(Channel.java:202)
+	at net.server.world.World.shutdown(World.java:2129)
+	at net.server.Server.shutdownInternal(Server.java:1896)
+	at net.server.Server.access$100(Server.java:110)
+	at net.server.Server$2.run(Server.java:1887)
+	at server.TimerManager$LoggingSaveRunnable.run(TimerManager.java:148)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(Unknown Source)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+---------------------------------
+
