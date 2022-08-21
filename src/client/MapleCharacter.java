@@ -445,7 +445,7 @@ public class MapleCharacter extends AbstractMapleCharacterObject {
     public static MapleCharacter getDefault(MapleClient c) {
         MapleCharacter ret = new MapleCharacter();
         ret.client = c;
-        ret.setGMLevel(0);
+        ret.setGMLevel(1);
         ret.hp = 50;
         ret.setMaxHp(50);
         ret.mp = 5;
@@ -7854,7 +7854,7 @@ public class MapleCharacter extends AbstractMapleCharacterObject {
                 localmaxmp += (hbmp.doubleValue() / 100) * localmaxmp;
             }
 
-            localmaxhp = Math.min(30000, localmaxhp);
+            localmaxhp = Math.min(60000, localmaxhp);
             localmaxmp = Math.min(30000, localmaxmp);
 
             MapleStatEffect combo = getBuffEffect(MapleBuffStat.ARAN_COMBO);

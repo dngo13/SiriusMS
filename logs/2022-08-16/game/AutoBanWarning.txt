@@ -1,0 +1,75 @@
+Toku caused DISTANCE_HACK Distance Sq to monster: 229013.0 SID: 1001005 MID: 9420510
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 489465.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 491913.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 561672.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 507464.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 1184170.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 871208.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 1187045.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 1512173.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 1081285.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 542120.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 550745.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 706625.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 462400.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 916810.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 636170.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 1156426.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 1324264.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 575042.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 1398130.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 595373.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 511925.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 538641.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 542516.0 SID: 1311006 MID: 9400545
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 538933.0 SID: 1311006 MID: 9400545
+---------------------------------
+

@@ -268,7 +268,7 @@ public abstract class AbstractMapleCharacterObject extends AbstractAnimatedMaple
     protected void setMaxHp(int hp_) {
         if (this.maxhp < hp_) this.transienthp = Float.NEGATIVE_INFINITY;
         this.maxhp = hp_;
-        this.clientmaxhp = Math.min(30000, hp_);
+        this.clientmaxhp = Math.min(60000, hp_);
     }
     
     protected void setMaxMp(int mp_) {
@@ -599,7 +599,7 @@ public abstract class AbstractMapleCharacterObject extends AbstractAnimatedMaple
         effLock.lock();
         statWlock.lock();
         try {
-            if (remainingAp - deltaAp < 0 || hpMpApUsed + deltaAp < 0 || maxhp >= 30000) {
+            if (remainingAp - deltaAp < 0 || hpMpApUsed + deltaAp < 0 || maxhp >= 60000) {
                 return false;
             }
             

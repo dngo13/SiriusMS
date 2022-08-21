@@ -1,0 +1,21 @@
+Chuggy caused MPCON Skill: 2301002; Player MP: 14; MP Needed: 24
+---------------------------------
+
+Chuggy caused MPCON Skill: 2301002; Player MP: 19; MP Needed: 24
+---------------------------------
+
+Chuggy caused MPCON Skill: 2301002; Player MP: 2; MP Needed: 24
+---------------------------------
+
+Chuggy caused MPCON Skill: 2301002; Player MP: 14; MP Needed: 24
+---------------------------------
+
+Emiko caused DISTANCE_HACK Distance Sq to monster: 635213.0 SID: 4001344 MID: 9400640
+---------------------------------
+
+Kurumi caused MPCON Skill: 2001005; Player MP: 18; MP Needed: 20
+---------------------------------
+
+Mizuna caused DISTANCE_HACK Distance Sq to monster: 431658.0 SID: 2211002 MID: 9400545
+---------------------------------
+

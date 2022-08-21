@@ -1,0 +1,1578 @@
+Emiko caused DISTANCE_HACK Distance Sq to monster: 763880.0 SID: 4111005 MID: 9400640
+---------------------------------
+
+Emiko caused DISTANCE_HACK Distance Sq to monster: 763880.0 SID: 4111005 MID: 9400640
+---------------------------------
+
+Mizuna caused DISTANCE_HACK Distance Sq to monster: 531908.0 SID: 2211002 MID: 9400545
+---------------------------------
+
+Mizuna caused DISTANCE_HACK Distance Sq to monster: 434149.0 SID: 2211002 MID: 9400545
+---------------------------------
+
+Mizuna caused DISTANCE_HACK Distance Sq to monster: 432225.0 SID: 2211002 MID: 9400545
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 308801.0 SID: 1311001 MID: 9300092
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 244040.0 SID: 1311001 MID: 9300092
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 61107 MaxDMG: 39530 SID: 1311001 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 60339 MaxDMG: 39293 SID: 1311001 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 252176.0 SID: 1311001 MID: 3230101
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 348224.0 SID: 1311001 MID: 9400575
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 65995 MaxDMG: 40320 SID: 1311001 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 62854 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 65674 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64332 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64391 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 61161 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64804 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 66411 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 61407 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 63115 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 63367 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64410 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 61359 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 63824 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64437 MaxDMG: 40084 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 65374 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 63356 MaxDMG: 40320 SID: 1311001 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 62949 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 61701 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 65776 MaxDMG: 40320 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 797453.0 SID: 1311001 MID: 9400575
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64125 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 70734 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 63197 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 63751 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64779 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 67468 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 67902 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64877 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 69733 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 68501 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 67245 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 63205 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 66608 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 63177 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64892 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 62666 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 70645 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 68369 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 69392 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 63470 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64156 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 69101 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 70899 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 69328 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 67684 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 70117 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 69515 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64311 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64175 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 65794 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 68810 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 67757 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 69364 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 68541 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 70800 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 67068 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64781 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 70469 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 66637 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 62655 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 62699 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 63975 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 62638 MaxDMG: 41678 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 67053 MaxDMG: 42625 SID: 1311001 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 65137 MaxDMG: 42625 SID: 1311001 MobID: 9400588 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 70110 MaxDMG: 42625 SID: 1311001 MobID: 9400588 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 72732 MaxDMG: 42625 SID: 1311001 MobID: 9400588 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64104 MaxDMG: 42625 SID: 1311001 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 70688 MaxDMG: 42625 SID: 1311001 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 69350 MaxDMG: 42625 SID: 1311001 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 69312 MaxDMG: 42625 SID: 1311001 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 70241 MaxDMG: 42625 SID: 1311001 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 67557 MaxDMG: 42625 SID: 1311001 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+GirL caused DISTANCE_HACK Distance Sq to monster: 1755650.0 SID: 0 MID: 4230106
+---------------------------------
+
+GirL caused DISTANCE_HACK Distance Sq to monster: 263146.0 SID: 0 MID: 5120000
+---------------------------------
+
+Chuggy caused DISTANCE_HACK Distance Sq to monster: 427720.0 SID: 2301005 MID: 9400575
+---------------------------------
+
+Chuggy caused DISTANCE_HACK Distance Sq to monster: 429029.0 SID: 2301005 MID: 9400575
+---------------------------------
+
+Chuggy caused DISTANCE_HACK Distance Sq to monster: 509800.0 SID: 2301005 MID: 9400575
+---------------------------------
+
+Chuggy caused DISTANCE_HACK Distance Sq to monster: 511229.0 SID: 2301005 MID: 9400575
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 64266 MaxDMG: 42625 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 69971 MaxDMG: 42625 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 67245 MaxDMG: 42625 SID: 1311001 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+Kurumi caused MPCON Skill: 2101004; Player MP: 0; MP Needed: 28
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 466756.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 452218.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 609269.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 521173.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 521280.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 490410.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 463522.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 468641.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 554209.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 582305.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 674980.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 469537.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 481001.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 461709.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 491332.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 465257.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 485354.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 655346.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 577970.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 552276.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 496976.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 621545.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 568553.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 463165.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 464081.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 484532.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 500125.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 474500.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 475569.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 595825.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 580066.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 652010.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 536117.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 463284.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 579881.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 584945.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 614132.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 480177.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 644200.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 518125.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 537476.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 479561.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 712706.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 553604.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 480925.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 491641.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 617060.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 545344.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 493793.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 524941.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 628325.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 610429.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 509405.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 604084.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 603437.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 517786.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 522685.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 662184.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 451125.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 476489.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 519521.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 629681.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 592525.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 475777.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 486250.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 561746.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 513941.0 SID: 1311006 MID: 8190003
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 484325.0 SID: 1311006 MID: 8190004
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13528 MaxDMG: 8642 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13756 MaxDMG: 8642 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13335 MaxDMG: 8642 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13590 MaxDMG: 8642 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13829 MaxDMG: 8642 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13386 MaxDMG: 8642 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13309 MaxDMG: 8642 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13416 MaxDMG: 8642 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13930 MaxDMG: 8642 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13888 MaxDMG: 8642 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13971 MaxDMG: 8642 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13737 MaxDMG: 8642 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13306 MaxDMG: 8642 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13225 MaxDMG: 8642 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13730 MaxDMG: 8642 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+GirL caused DISTANCE_HACK Distance Sq to monster: 777928.0 SID: 0 MID: 5130108
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12818 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13181 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13452 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13330 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13124 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12791 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13393 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12534 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12848 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12794 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12924 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13357 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13010 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13016 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13130 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13122 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12978 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12932 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12585 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13533 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13417 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12767 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13019 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12539 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12821 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12956 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12612 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13048 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12764 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13373 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12628 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12645 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12599 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12680 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13062 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12691 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12807 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12526 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12720 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12536 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12593 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12834 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12943 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12512 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13438 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12553 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12590 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13341 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13095 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12536 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13146 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12490 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13425 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12783 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12631 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12731 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12580 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12528 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13203 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13214 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13574 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13455 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12829 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13550 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13303 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13438 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12837 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12664 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12539 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13360 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12742 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13203 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12740 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12555 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13244 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12783 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13401 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12932 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12880 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13111 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12460 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13030 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13203 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12696 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12919 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12729 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13035 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12872 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13452 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12824 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12761 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12710 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12908 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12563 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13046 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12550 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12664 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12734 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12534 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13211 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12477 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12900 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13325 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12824 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13081 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12899 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13333 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12626 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12625 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13525 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12517 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12873 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13189 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12889 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12959 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13444 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13373 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12927 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12593 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13409 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12880 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12829 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12542 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13346 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12496 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12517 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13225 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12574 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12466 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13325 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12550 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12734 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12520 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12726 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12964 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13311 MaxDMG: 8302 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12477 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13387 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 12766 MaxDMG: 8302 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13242 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13217 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13160 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13472 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13420 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13220 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13637 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13382 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13623 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13500 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13626 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13343 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13215 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13335 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13239 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13253 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13154 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13237 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13423 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13259 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13437 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13511 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13204 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13228 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13352 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13270 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13604 MaxDMG: 8746 SID: 3121004 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13579 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13453 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13327 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13149 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13401 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13166 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13645 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13215 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13472 MaxDMG: 8746 SID: 3121004 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 9213 MaxDMG: 5986 SID: 3121004 MobID: 9400588 Map: Twisted Paths (610010103)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 9274 MaxDMG: 5986 SID: 3121004 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 14382 MaxDMG: 9104 SID: 3121004 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 15334 MaxDMG: 9104 SID: 3121004 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13974 MaxDMG: 9104 SID: 3121004 MobID: 3230101 Map: Twisted Paths (610010103)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 13661 MaxDMG: 9104 SID: 3121004 MobID: 9400575 Map: Twisted Paths (610010103)
+---------------------------------
+
+pLsdontdeLet caused DAMAGE_HACK DMG: 9268 MaxDMG: 5750 SID: 3121004 MobID: 9400584 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 294845.0 SID: 1311001 MID: 8800008
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 241306.0 SID: 1311001 MID: 8800008
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 243657.0 SID: 1311001 MID: 8800006
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 261540.0 SID: 1311001 MID: 8800008
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 257346.0 SID: 1311001 MID: 8800006
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 247178.0 SID: 1311001 MID: 8800007
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 247178.0 SID: 1311001 MID: 8800005
+---------------------------------
+
+Toku caused DISTANCE_HACK Distance Sq to monster: 247178.0 SID: 1311001 MID: 8800003
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 82143 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 83266 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 81963 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 83650 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 78667 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 81269 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 73577 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 80110 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 76166 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 80191 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 80578 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 75177 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 79450 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 79374 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 79515 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 77444 MaxDMG: 48943 SID: 1311001 MobID: 8800000 Map: Zakum's Altar (280030000)
+---------------------------------
+
+Chuggy caused MPCON Skill: 2321008; Player MP: 1; MP Needed: 3000
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 88783 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 88807 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 98599 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 102745 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 83496 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 97422 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 89204 MaxDMG: 53002 SID: 1311001 MobID: 9400549 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 81785 MaxDMG: 53002 SID: 1311001 MobID: 9400549 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 81120 MaxDMG: 53002 SID: 1311001 MobID: 9400549 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 88849 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 85983 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 97234 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 99627 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 97612 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 92432 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 104399 MaxDMG: 53002 SID: 1311001 MobID: 9400549 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 107352 MaxDMG: 53002 SID: 1311001 MobID: 9400549 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 95109 MaxDMG: 53002 SID: 1311001 MobID: 9400549 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 106848 MaxDMG: 53002 SID: 1311001 MobID: 9400549 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 97545 MaxDMG: 53002 SID: 1311001 MobID: 9400549 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 80677 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 94674 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 90885 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 94883 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 94112 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 105094 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 104675 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 90042 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 97972 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 99568 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 86487 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 97678 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 100151 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 79893 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 80834 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 105255 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 103229 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 97328 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 96301 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 91472 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 100947 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 101247 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 103252 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 92671 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 106530 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 84576 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 87454 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 106154 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 102314 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 81571 MaxDMG: 53002 SID: 1311001 MobID: 9400575 Map: Forgotten Path (610010005)
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Chuggy caused DAMAGE_HACK Possible packet editing summon damage exploit.
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 104092 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 83429 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 99802 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 98551 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 81830 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 101485 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 83600 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 83566 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 89379 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 104840 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 102702 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 80580 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 81726 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 106187 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 81793 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 104873 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 99202 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 83763 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 81136 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 83407 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 92139 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 91318 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 105943 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 88055 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 95144 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 96285 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 98917 MaxDMG: 53002 SID: 1311001 MobID: 8190004 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 80124 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 105375 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 101268 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 97705 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 98558 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+
+Toku caused DAMAGE_HACK DMG: 106650 MaxDMG: 53002 SID: 1311001 MobID: 8190003 Map: The Dragon Nest Left Behind (240040511)
+---------------------------------
+

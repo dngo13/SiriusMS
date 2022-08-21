@@ -98,6 +98,7 @@ public class GameConstants {
         put("square", 103040000);
         put("neo", 240070000);
         put("mushking", 106020000);
+        put("fm", 910000000);
     }};
     
     // "goto" command for only-GMs
@@ -120,7 +121,7 @@ public class GameConstants {
         put("keep", 610020006);
         put("dojo", 925020001);
         put("bosspq", 970030000);
-        put("fm", 910000000);
+        
     }};
     
     public static final List<String> GAME_SONGS = new ArrayList<String>(170) {{

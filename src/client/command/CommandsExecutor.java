@@ -218,6 +218,9 @@ public class CommandsExecutor {
         // Stylist NPC
         addCommand("style",StyleCommand.class);
         commandsNameDesc.add(levelCommandsCursor);
+        
+        // TP NPC
+        addCommand("tp", TPCommand.class);
     }
 
 

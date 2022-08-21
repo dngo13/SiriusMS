@@ -1,0 +1,2 @@
+Player Toku got stuck when changing maps. Timestamp: Wed Aug 17 06:41:33 GMT-04:00 2022 Last visited mapids: [105050000, 105050100, 105050200, 105050300, 105050400]
+Player Toku got stuck when changing maps. Timestamp: Wed Aug 17 06:41:58 GMT-04:00 2022 Last visited mapids: [105050300, 105050400, 105060000, 105060100, 105070000]
